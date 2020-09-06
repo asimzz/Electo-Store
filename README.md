@@ -23,10 +23,8 @@ The app built with Flutter for Frontend and Node.js with Express.js for Backend,
 - Update user Info Page.
 - Settings page also not implement yet.
 
-all these features and more will be implement soon
+all these features and more will be implement soon.
 
-## Screenshots from the App:
-[1:](lib/screenshots/photo_2020-09-06_10-51-42.jpg)
 ## Install Packages
 
 ```
@@ -47,4 +45,11 @@ flutter run
 
 - Author: Asim Abdalla
 - if you like this please star ⭐ it and follow me.
-- Contact me at asimabdalla99@gmail.com for a Job or anything
+- Contact me at asimabdalla99@gmail.com for a Job or anything.
+
+## Screenshots from the App:
+![](lib/screenshots/photo_2020-09-06_10-51-42.jpg) ![](lib/screenshots/photo_2020-09-06_10-52-01.jpg) ![](lib/screenshots/photo_2020-09-06_10-52-09.jpg)
+![](lib/screenshots/photo_2020-09-06_10-52-20.jpg) ![](lib/screenshots/photo_2020-09-06_10-52-25.jpg) ![](lib/screenshots/photo_2020-09-06_10-52-29.jpg)
+![](lib/screenshots/photo_2020-09-06_10-52-34.jpg) ![](lib/screenshots/photo_2020-09-06_10-52-39.jpg) ![](lib/screenshots/photo_2020-09-06_10-52-46.jpg)
+
+
