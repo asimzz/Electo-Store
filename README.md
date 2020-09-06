@@ -26,7 +26,7 @@ The app built with Flutter for Frontend and Node.js with Express.js for Backend,
 all these features and more will be implement soon
 
 ## Screenshots from the App:
-(lib/screenshots/photo_2020-09-06_10-51-42.jpg)
+[](lib/screenshots/photo_2020-09-06_10-51-42.jpg)
 ## Install Packages
 
 ```
