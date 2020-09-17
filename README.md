@@ -12,13 +12,13 @@ The app built with Flutter for Frontend and Node.js with Express.js for Backend,
 
 ## Main Packages 
 
-- fluterr_bloc & flutter_hooks for state management.
+- flutter_bloc & flutter_hooks for state management.
 - injection, injection_generator and getIt for dependency injection.
 - freezed(my favorite one xD) for data classes and union cases.
 - shared_preferences for local storage database.
 
 ## What left to implement?
-- Favroite & bookmaring products buttons.
+- Favorite & bookmaring products buttons.
 - Adding to Cart and managing orders pages.
 - Update user Info Page.
 - Settings page also not implement yet.
